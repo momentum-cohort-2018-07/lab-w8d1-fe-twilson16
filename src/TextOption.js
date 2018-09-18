@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import textOptions from './textOptions'
+// import textOptions from './textOptions'
 
 class TextOption extends Component {
   render () {
